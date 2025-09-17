@@ -1,0 +1,9 @@
+[
+  {
+    "title": "Player de Música",
+    "description": "Um player de música feito em Angular e Firebase.",
+    "url": "https://meuprojeto.com",
+    "image": "https://raw.githubusercontent.com/hugosique/web-portfolio-data/images/player.png",
+    "tags": ["Angular", "Firebase"]
+  }
+]
