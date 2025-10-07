@@ -1,9 +1,242 @@
 [
   {
+    "id": 1,
     "title": "Player de Música",
     "description": "Um player de música feito em Angular e Firebase.",
     "url": "https://meuprojeto.com",
     "image": "https://raw.githubusercontent.com/hugosique/web-portfolio-data/general/main/images/player.png",
     "tags": ["Angular", "Firebase"]
+  },
+  {
+    "id": 2,
+    "title": "Dashboard Financeiro",
+    "description": "Aplicação de controle financeiro com gráficos dinâmicos e autenticação.",
+    "url": "https://meuprojeto.com/dashboard-financeiro",
+    "image": "https://raw.githubusercontent.com/hugosique/web-portfolio-data/general/main/images/player.png",
+    "tags": ["Angular", "Chart.js", "Firebase"]
+  },
+  {
+    "id": 3,
+    "title": "App de Tarefas",
+    "description": "Gerenciador de tarefas com persistência em tempo real no Firebase.",
+    "url": "https://meuprojeto.com/tarefas",
+    "image": "https://raw.githubusercontent.com/hugosique/web-portfolio-data/general/main/images/player.png",
+    "tags": ["Angular", "Firestore"]
+  },
+  {
+    "id": 4,
+    "title": "Loja Virtual",
+    "description": "E-commerce completo com carrinho, login e painel de administração.",
+    "url": "https://meuprojeto.com/loja",
+    "image": "https://raw.githubusercontent.com/hugosique/web-portfolio-data/general/main/images/player.png",
+    "tags": ["Angular", "Node.js", "Stripe"]
+  },
+  {
+    "id": 5,
+    "title": "Chat em Tempo Real",
+    "description": "Chat simples com autenticação via Google e troca de mensagens em tempo real.",
+    "url": "https://meuprojeto.com/chat",
+    "image": "https://raw.githubusercontent.com/hugosique/web-portfolio-data/general/main/images/player.png",
+    "tags": ["Angular", "Firebase", "Auth"]
+  },
+  {
+    "id": 6,
+    "title": "Blog Pessoal",
+    "description": "Blog moderno com markdown e integração com CMS headless.",
+    "url": "https://meuprojeto.com/blog",
+    "image": "https://raw.githubusercontent.com/hugosique/web-portfolio-data/general/main/images/player.png",
+    "tags": ["Angular", "Strapi", "Markdown"]
+  },
+  {
+    "id": 7,
+    "title": "Portfolio Dev",
+    "description": "Portfólio de desenvolvedor com animações suaves e design responsivo.",
+    "url": "https://meuprojeto.com/portfolio",
+    "image": "https://raw.githubusercontent.com/hugosique/web-portfolio-data/general/main/images/player.png",
+    "tags": ["Angular", "Tailwind"]
+  },
+  {
+    "id": 8,
+    "title": "Sistema de Reservas",
+    "description": "Sistema para agendamento de horários com painel administrativo.",
+    "url": "https://meuprojeto.com/reservas",
+    "image": "https://raw.githubusercontent.com/hugosique/web-portfolio-data/general/main/images/player.png",
+    "tags": ["Angular", "Node.js", "MongoDB"]
+  },
+  {
+    "id": 9,
+    "title": "To-Do Avançado",
+    "description": "Aplicativo de produtividade com notificações e sincronização.",
+    "url": "https://meuprojeto.com/todo-avancado",
+    "image": "https://raw.githubusercontent.com/hugosique/web-portfolio-data/general/main/images/player.png",
+    "tags": ["Angular", "IndexedDB"]
+  },
+  {
+    "id": 10,
+    "title": "Sistema de Login",
+    "description": "Autenticação JWT com Angular e Node.js.",
+    "url": "https://meuprojeto.com/login-system",
+    "image": "https://raw.githubusercontent.com/hugosique/web-portfolio-data/general/main/images/player.png",
+    "tags": ["Angular", "JWT", "Node.js"]
+  },
+  {
+    "id": 11,
+    "title": "Plataforma de Cursos",
+    "description": "Site de cursos com cadastro de alunos, aulas e progresso.",
+    "url": "https://meuprojeto.com/cursos",
+    "image": "https://raw.githubusercontent.com/hugosique/web-portfolio-data/general/main/images/player.png",
+    "tags": ["Angular", "NestJS", "PostgreSQL"]
+  },
+  {
+    "id": 12,
+    "title": "Gerador de QR Code",
+    "description": "Aplicativo web para criar e baixar QR Codes personalizados.",
+    "url": "https://meuprojeto.com/qrcode",
+    "image": "https://raw.githubusercontent.com/hugosique/web-portfolio-data/general/main/images/player.png",
+    "tags": ["Angular", "API"]
+  },
+  {
+    "id": 13,
+    "title": "Sistema de Inventário",
+    "description": "Controle de estoque com relatórios e exportação em PDF.",
+    "url": "https://meuprojeto.com/inventario",
+    "image": "https://raw.githubusercontent.com/hugosique/web-portfolio-data/general/main/images/player.png",
+    "tags": ["Angular", "Node.js", "SQL"]
+  },
+  {
+    "id": 14,
+    "title": "App Clima",
+    "description": "Aplicativo de clima com consumo de API pública e geolocalização.",
+    "url": "https://meuprojeto.com/clima",
+    "image": "https://raw.githubusercontent.com/hugosique/web-portfolio-data/general/main/images/player.png",
+    "tags": ["Angular", "API"]
+  },
+  {
+    "id": 15,
+    "title": "Calculadora IMC",
+    "description": "Aplicativo simples de cálculo de IMC responsivo.",
+    "url": "https://meuprojeto.com/imc",
+    "image": "https://raw.githubusercontent.com/hugosique/web-portfolio-data/general/main/images/player.png",
+    "tags": ["Angular"]
+  },
+  {
+    "id": 16,
+    "title": "Timer Pomodoro",
+    "description": "Ferramenta para foco e produtividade usando o método Pomodoro.",
+    "url": "https://meuprojeto.com/pomodoro",
+    "image": "https://raw.githubusercontent.com/hugosique/web-portfolio-data/general/main/images/player.png",
+    "tags": ["Angular", "RxJS"]
+  },
+  {
+    "id": 17,
+    "title": "Conversor de Moedas",
+    "description": "Aplicativo para conversão de moedas com taxas atualizadas via API.",
+    "url": "https://meuprojeto.com/moedas",
+    "image": "https://raw.githubusercontent.com/hugosique/web-portfolio-data/general/main/images/player.png",
+    "tags": ["Angular", "API"]
+  },
+  {
+    "id": 18,
+    "title": "Gerador de Senhas",
+    "description": "Crie senhas seguras e aleatórias diretamente no navegador.",
+    "url": "https://meuprojeto.com/senhas",
+    "image": "https://raw.githubusercontent.com/hugosique/web-portfolio-data/general/main/images/player.png",
+    "tags": ["Angular"]
+  },
+  {
+    "id": 19,
+    "title": "Formulário Dinâmico",
+    "description": "Formulário totalmente dinâmico com validações reativas.",
+    "url": "https://meuprojeto.com/formulario",
+    "image": "https://raw.githubusercontent.com/hugosique/web-portfolio-data/general/main/images/player.png",
+    "tags": ["Angular", "Reactive Forms"]
+  },
+  {
+    "id": 20,
+    "title": "App de Notícias",
+    "description": "Portal de notícias com API pública e layout moderno.",
+    "url": "https://meuprojeto.com/noticias",
+    "image": "https://raw.githubusercontent.com/hugosique/web-portfolio-data/general/main/images/player.png",
+    "tags": ["Angular", "API"]
+  },
+  {
+    "id": 21,
+    "title": "Agenda de Contatos",
+    "description": "Gerencie seus contatos com busca e filtros inteligentes.",
+    "url": "https://meuprojeto.com/contatos",
+    "image": "https://raw.githubusercontent.com/hugosique/web-portfolio-data/general/main/images/player.png",
+    "tags": ["Angular", "LocalStorage"]
+  },
+  {
+    "id": 22,
+    "title": "App de Receitas",
+    "description": "Coleção de receitas com filtro por ingredientes.",
+    "url": "https://meuprojeto.com/receitas",
+    "image": "https://raw.githubusercontent.com/hugosique/web-portfolio-data/general/main/images/player.png",
+    "tags": ["Angular", "API"]
+  },
+  {
+    "id": 23,
+    "title": "Landing Page Animada",
+    "description": "Landing Page moderna com animações suaves e responsividade.",
+    "url": "https://meuprojeto.com/landing",
+    "image": "https://raw.githubusercontent.com/hugosique/web-portfolio-data/general/main/images/player.png",
+    "tags": ["Angular", "Tailwind", "GSAP"]
+  },
+  {
+    "id": 24,
+    "title": "Calculadora Financeira",
+    "description": "Simulador de investimentos e juros compostos.",
+    "url": "https://meuprojeto.com/financas",
+    "image": "https://raw.githubusercontent.com/hugosique/web-portfolio-data/general/main/images/player.png",
+    "tags": ["Angular"]
+  },
+  {
+    "id": 25,
+    "title": "Sistema de Comentários",
+    "description": "Módulo de comentários com autenticação e moderação.",
+    "url": "https://meuprojeto.com/comentarios",
+    "image": "https://raw.githubusercontent.com/hugosique/web-portfolio-data/general/main/images/player.png",
+    "tags": ["Angular", "Firebase"]
+  },
+  {
+    "id": 26,
+    "title": "Galeria de Fotos",
+    "description": "Galeria de imagens com visualização em grade e modal.",
+    "url": "https://meuprojeto.com/galeria",
+    "image": "https://raw.githubusercontent.com/hugosique/web-portfolio-data/general/main/images/player.png",
+    "tags": ["Angular", "CSS Grid"]
+  },
+  {
+    "id": 27,
+    "title": "Painel de Controle IoT",
+    "description": "Interface para monitorar sensores e dispositivos conectados.",
+    "url": "https://meuprojeto.com/iot-dashboard",
+    "image": "https://raw.githubusercontent.com/hugosique/web-portfolio-data/general/main/images/player.png",
+    "tags": ["Angular", "WebSockets"]
+  },
+  {
+    "id": 28,
+    "title": "Gerador de Portfólio",
+    "description": "App que cria automaticamente um portfólio com base em dados JSON.",
+    "url": "https://meuprojeto.com/gerador-portfolio",
+    "image": "https://raw.githubusercontent.com/hugosique/web-portfolio-data/general/main/images/player.png",
+    "tags": ["Angular", "JSON"]
+  },
+  {
+    "id": 29,
+    "title": "App de Notas",
+    "description": "Aplicativo simples para anotações com modo escuro.",
+    "url": "https://meuprojeto.com/notas",
+    "image": "https://raw.githubusercontent.com/hugosique/web-portfolio-data/general/main/images/player.png",
+    "tags": ["Angular", "PWA"]
+  },
+  {
+    "id": 30,
+    "title": "Sistema de Tickets",
+    "description": "Gerenciamento de chamados técnicos com filtros e status.",
+    "url": "https://meuprojeto.com/tickets",
+    "image": "https://raw.githubusercontent.com/hugosique/web-portfolio-data/general/main/images/player.png",
+    "tags": ["Angular", "Node.js", "MySQL"]
   }
 ]
